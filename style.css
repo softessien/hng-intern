@@ -114,6 +114,13 @@ a:active {
     font-size: large;
     width: 100%;
 }
+input {
+    margin: 0;
+    width: 100%;
+    font-size: large;
+    font-weight: bold;
+    color: #43a
+}
 footer {
     background-color: rgb(153, 233, 209);
     width: 100%;
@@ -122,4 +129,5 @@ footer {
     font-weight: bold;
     color: #43a;
     font-size: large;
+    text-align: center;
 }
